@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CODING\\C#\\Chat Application (Client-Server Model)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5972D668-309F-44CB-9368-E5D8C493AE12}|..\\ChatServer\\ChatServer.csproj|e:\\coding\\c#\\chatserver\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49F690F-F85F-41A3-A8AA-F5230D473B95}|..\\ChatClient\\ChatClient.csproj|e:\\coding\\c#\\chatclient\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "E:\\CODING\\C#\\ChatClient\\ChatClient.cs",
+              "RelativeDocumentMoniker": "..\\ChatClient\\ChatClient.cs",
+              "ToolTip": "E:\\CODING\\C#\\ChatClient\\ChatClient.cs",
+              "RelativeToolTip": "..\\ChatClient\\ChatClient.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:57:05.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "E:\\CODING\\C#\\ChatServer\\ChatServer.cs",
+              "RelativeDocumentMoniker": "..\\ChatServer\\ChatServer.cs",
+              "ToolTip": "E:\\CODING\\C#\\ChatServer\\ChatServer.cs",
+              "RelativeToolTip": "..\\ChatServer\\ChatServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:48:18.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

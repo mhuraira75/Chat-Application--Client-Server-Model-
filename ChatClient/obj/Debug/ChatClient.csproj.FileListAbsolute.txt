@@ -1,0 +1,7 @@
+E:\CODING\C#\ChatClient\bin\Debug\ChatClient.exe.config
+E:\CODING\C#\ChatClient\bin\Debug\ChatClient.exe
+E:\CODING\C#\ChatClient\bin\Debug\ChatClient.pdb
+E:\CODING\C#\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+E:\CODING\C#\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\CODING\C#\ChatClient\obj\Debug\ChatClient.exe
+E:\CODING\C#\ChatClient\obj\Debug\ChatClient.pdb
